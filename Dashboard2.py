@@ -1,8 +1,8 @@
 import io
-from multiprocessing.sharedctypes import Value
+#from multiprocessing.sharedctypes import Value
 #from logging import _Level
-from tkinter import Y
-from turtle import position, right
+#from tkinter import Y
+#from turtle import position, right
 from unicodedata import name
 import pandas as pd 
 import plotly.express as px
